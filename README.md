@@ -1,3 +1,5 @@
-# About me
+# My Portfolio
 
-This is the repository for my personal website which includes my resume, blog, and other information about me.
+Welcome to my personal portfolio! This is where I showcase my projects, skills, and experiences. Feel free to explore and get to know me better.
+
+Thank you for visiting my portfolio
