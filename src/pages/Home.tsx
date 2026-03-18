@@ -1,5 +1,3 @@
-// pages/Home.tsx
-
 import React from 'react';
 import { Box, Heading, Text } from 'shadcn/ui';
 
